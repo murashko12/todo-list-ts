@@ -1,0 +1,24 @@
+.conatiner {
+  height: 100vh;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  
+}
+
+.todoItem {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+}
+
+.wrapperInput {
+  margin-bottom: 20px;
+}
+
+.todoList {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
